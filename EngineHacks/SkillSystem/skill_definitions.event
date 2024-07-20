@@ -911,7 +911,7 @@
 
 //Luna: Negates enemy defenses. (Skill % activation)
 //Author Unknown (Initial Commit)
-#define LunaID 11
+#define LunaID 255
 
 //Miracle: Survive a lethal attack if HP > 50%.
 //Author Unknown (Initial Commit)
@@ -931,15 +931,15 @@
 
 //Sol: Restore damage dealt as HP. (Skill % activation)
 //Author Unknown (Initial Commit)
-#define SolID 12
+#define SolID 255
 
 //Solar Brace: Restore 25% of damage dealt as HP.
 //By Snerdels
-#define SolarBraceID 255
+#define SolarBraceID 12
 
 //Lunar Brace: Ignore 25% of enemy defense.
 //By Snerdels
-#define LunarBraceID 255
+#define LunarBraceID 11
 
 //Sure Shot: A precision attack that always hits and does 1.5x damage. (Skill % activation)
 //Author Unknown (Initial Commit)
