@@ -159,6 +159,10 @@ when attacked at 1-2 range.[X]
 Miracle: Survive a lethal[N]
 attack if HP > 50%.[X]
 
+## SD_MiraclePlus
+Miracle+: Negates damage[N]
+from lethal attacks.[X]
+
 ## SD_Swordfaire
 Swordfaire: +4 damage[N]
 when equipping a sword.[X]

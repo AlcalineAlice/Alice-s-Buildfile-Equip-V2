@@ -113,6 +113,9 @@ ORG SkillIcon(CounterMagicID)
 ORG SkillIcon(MiracleID)
 #incbin "SkillIcons/Miracle.dmp"
 
+ORG SkillIcon(MiraclePlusID)
+#incbin "SkillIcons/Miracle.dmp"
+
 ORG SkillIcon(SwordfaireID)
 #incbin "SkillIcons/Swordfaire.dmp"
 

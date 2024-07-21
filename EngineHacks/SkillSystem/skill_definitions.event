@@ -917,6 +917,10 @@
 //Author Unknown (Initial Commit)
 #define MiracleID 25
 
+//MiraclePlus: Negates damage fromwould-be lethal attacks.
+//By SomeonePassingBy
+#define MiraclePlusID 10
+
 //Moonbow: Enemy Def/Res is reduced by 25%. Charge: 2
 //Author Unknown (Initial Commit)
 #define MoonbowID 37
@@ -943,7 +947,7 @@
 
 //Sure Shot: A precision attack that always hits and does 1.5x damage. (Skill % activation)
 //Author Unknown (Initial Commit)
-#define SureShotID 10
+#define SureShotID 255
 
 //Corrosion: Decrease durability of enemy's weapon by User's level (Skill/2 % activation)
 //By Sme
