@@ -32,10 +32,10 @@ cmp r0, #0
 beq End
 
 @skip if unit isn't the attacker
-mov 	r0, r4
-ldr     r2,=0x203a4ec @attacker
-cmp     r0,r2
-bne     End
+// mov 	r0, r4
+// ldr     r2,=0x203a4ec @attacker
+// cmp     r0,r2
+// bne     End
 
 
 

@@ -15,10 +15,10 @@ cmp r0, #0
 beq End
 
 @skip if unit isn't the defender
-mov 	r0, r5
-ldr     r2,=0x203a4ec @defender
-cmp     r0,r2
-bne     End
+// mov 	r0, r5
+// ldr     r2,=0x203a4ec @defender
+// cmp     r0,r2
+// bne     End
 
 @and set attacker (def or res)=(def or res)*.75
 mov r1, #0x5C
