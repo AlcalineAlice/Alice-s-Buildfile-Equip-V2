@@ -255,20 +255,20 @@
 #define SkybreakerID 47
 
 //WingedShield: Prevent effective damage against flying units
-#define WingedShieldID 255
+#define WingedShieldID 13
 
 //ArmorShield: Prevent effective damage against armored units
-#define ArmorShieldID 255
+#define ArmorShieldID 14
 
 //HorseShield: Prevent effective damage against mounted units
-#define HorseShieldID 255
+#define HorseShieldID 15
 
 //DragonShield: Prevent effective damage against dragon units
-#define DragonShieldID 255
+#define DragonShieldID 48
 
 //Resourceful: Double effectiveness multiplier.
 //By Sme
-#define ResourcefulID 48
+#define ResourcefulID 255
 
 
 //EXP Skills
@@ -811,7 +811,7 @@
 
 //Adept: Gain a consecutive attack. (Speed % activation)
 //Author Unknown (Initial Commit)
-#define AdeptID 14
+#define AdeptID 255
 
 //Aegis: Nullify a magic attack. (Skill % activation)
 //Author Unknown (Initial Commit)
@@ -819,11 +819,11 @@
 
 //Aether: First strike absorbs HP, second strike negates defenses. (Skill/2 % activation)
 //Author Unknown (Initial Commit)
-#define AetherID 13
+#define AetherID 255
 
 //Astra: 5 attacks at half damage. (Skill % activation)
 //Author Unknown (Initial Commit)
-#define AstraID 15
+#define AstraID 255
 
 //Bane: Leave the opponent at 1 HP if the attack would kill. (Skill/2 % activation)
 //Author Unknown (Initial Commit)
